@@ -1,0 +1,3 @@
+ci_access:
+  groups:
+    - id: lamtech-damiie-cma/helm-chart
